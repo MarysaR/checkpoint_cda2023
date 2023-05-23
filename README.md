@@ -2,14 +2,11 @@
 
 Backend
 
-- Crée un nouveau projet NodeJS Typescript : FAIT
+- Crée un nouveau projet NodeJS Typescript 
 
-- Pour un meilleur confort de dev, utilise ts-node-dev : FAIT
+- Pour un meilleur confort de dev, utilise ts-node-dev 
 
-Le but de cet exercice est de créer une API GraphQL avec Apollo Server et Typegraphql pour enregistrer et lire des pays avec leur code, leur nom et leur emoji.
- - Enregistrer : OK
- - Lire : OK
-
+Le but de cet exercice est de créer une API GraphQL avec Apollo Server et Typegraphql pour enregistrer et lire des pays avec leur code, leur nom et leur emoji
 - Utilise une base de données SQLite et TypeORM en ORM : FAIT
 
 Voici les packages dont tu auras besoin et leur version :
@@ -36,8 +33,8 @@ et qui enregistre cette entrée en BDD.
 
 Crée ensuite 2 queries :
 
-- Une qui renvoie la liste de tous les pays avec le code, le nom et l'emoji : FAIT
-- Une autre qui prend en paramètre le code du pays et qui renvoie le pays en question : FAIT
+- Une qui renvoie la liste de tous les pays avec le code, le nom et l'emoji 
+- Une autre qui prend en paramètre le code du pays et qui renvoie le pays en question
 
 Bonus : ### À VENIR
 
