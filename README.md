@@ -7,7 +7,7 @@ Backend
 - Pour un meilleur confort de dev, utilise ts-node-dev 
 
 Le but de cet exercice est de créer une API GraphQL avec Apollo Server et Typegraphql pour enregistrer et lire des pays avec leur code, leur nom et leur emoji
-- Utilise une base de données SQLite et TypeORM en ORM : FAIT
+- Utilise une base de données SQLite et TypeORM en ORM :
 
 Voici les packages dont tu auras besoin et leur version :
 
